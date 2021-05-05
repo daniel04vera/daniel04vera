@@ -2,7 +2,7 @@
 - 👀 I’m interested in CYBERSECURITY/NETWORKING/PENTESTING/AI/CRYPTO
 - 🌱 I’m currently learning PYTHON/PROGRAMMING
 - 💞️ I’m looking to collaborate on BOX_HARDENING/SOFWARE_DEV/NEURAL_NET_DEV
-- 📫 How to reach me: DANIELGVERA@ICLOUD.COM
+- 📫 How to reach me: danielgvera@icloud.com
 
 <!---
 daniel04vera/daniel04vera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
